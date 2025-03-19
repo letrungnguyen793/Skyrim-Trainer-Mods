@@ -3,7 +3,7 @@
   <a href="https://telegra.ph/Cheatlauncher-Github-03-18"><img src="https://github.com/user-attachments/assets/20f30503-da97-47a6-9260-90b13682d81e" height="80"></a></div>
 
 
-## Functions
+ ## Functions
 ![1](https://github.com/user-attachments/assets/6d361b9d-19d9-48ac-8367-6aaa4b49b8f0)
 - Num 1 – Infinite HP
 - Num 2 – Infinite MP
